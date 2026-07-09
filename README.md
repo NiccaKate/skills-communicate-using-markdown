@@ -10,3 +10,9 @@ This is where I'm learning how to use **Markdown** effectively on GitHub.
 - Creating different heading levels
 - Formatting text
 - Adding images and lists
+
+## My Favorite Image
+
+![Octocat](https://octodex.github.com/images/Professortocat_v2.png)
+
+This is the Professor Octocat! 🐙
