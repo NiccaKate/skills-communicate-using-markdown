@@ -16,3 +16,10 @@ This is where I'm learning how to use **Markdown** effectively on GitHub.
 ![Octocat](https://octodex.github.com/images/Professortocat_v2.png)
 
 This is the Professor Octocat! 🐙
+## Code Example
+
+Here's a simple Hello World in Python:
+
+```python
+print("Hello, World! I'm Nicca Kate!")
+print("Learning Markdown on GitHub is fun! 🚀")
