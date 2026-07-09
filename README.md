@@ -1,25 +1,8 @@
-# Communicate Using Markdown
+## My Task List
 
-## Hello, I'm Nicca Kate! 👋
-
-### About This Exercise
-
-This is where I'm learning how to use **Markdown** effectively on GitHub.
-
-#### What I've Learned So Far
-- Creating different heading levels
-- Formatting text
-- Adding images and lists
-
-## My Favorite Image
-
-![Octocat](https://octodex.github.com/images/Professortocat_v2.png)
-
-This is the Professor Octocat! 🐙
-## Code Example
-
-Here's a simple Hello World in Python:
-
-```python
-print("Hello, World! I'm Nicca Kate!")
-print("Learning Markdown on GitHub is fun! 🚀")
+- [x] Add headers
+- [x] Add an image
+- [x] Add a code example
+- [ ] Complete Markdown course
+- [ ] Merge pull request
+- [ ] Create my own GitHub Pages site
